@@ -4,7 +4,7 @@ import requests
 import spotipy
 import spotipy.util as util
 from newsapi import NewsApiClient
-from jarvisai import JarvisAI
+import JarvisAI
 import random
 
 # Initialize the text-to-speech engine
