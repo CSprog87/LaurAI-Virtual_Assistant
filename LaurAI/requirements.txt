@@ -1,0 +1,6 @@
+jarvisai==0.2.1
+newsapi-python==0.2.6
+pyttsx3==2.90
+requests==2.26.0
+speechrecognition==3.8.1
+spotipy==2.19.0
